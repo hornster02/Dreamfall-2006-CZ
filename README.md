@@ -23,3 +23,7 @@ Autohotkey v1.1 https://github.com/hornster02/Dreamfall-2006-CZ/raw/main/script.
 ```SHIFT``` přepínač chůze
 
 ```C``` přepínač skrčení
+<br/>
+<br/>
+<br/>
+Časově omezená minihra s hledáním znaků se snadno ocheatuje pozastavením hry pomocí Autohotkey skriptu na mém profilu
