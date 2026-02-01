@@ -8,6 +8,13 @@ Postup
 <br/>
 <br/>
 <br/>
+
+Jiné
+<br/>
+-v ```prefs.dat``` nesmí být u "audio" parametru "cz" (došlo by k vypnutí dabingu)
+<br/>
+https://steamcommunity.com/app/6300/discussions/0/2992045158713314871/
+
 Autohotkey v1.1 https://github.com/hornster02/Dreamfall-2006-CZ/raw/main/script.rar
 
 ```CTRL+ALT+INS``` pozastavit/spustit skript
@@ -26,4 +33,4 @@ Autohotkey v1.1 https://github.com/hornster02/Dreamfall-2006-CZ/raw/main/script.
 <br/>
 <br/>
 <br/>
-Časově omezená minihra s hledáním znaků se snadno ocheatuje pozastavením hry pomocí Autohotkey skriptu na mém profilu
+Časově omezená minihra s hledáním znaků se snadno ocheatuje pozastavením hry (suspend) pomocí Autohotkey skriptu na mém profilu
